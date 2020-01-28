@@ -25,21 +25,10 @@ In other words, this is where the Privacy CG *incubates* new ideas.
 
 ## Resources for editors
 
-We have [explainer](examples/README.md) and
-[specification](examples/example.bs) templates that can be used by folks
-working on proposals in the Privacy CG.
-
-When **writing a new explainer**, please use this
-[explainer template](examples/README.md). which is taken from the
-[TAG](https://w3ctag.github.io/)'s excellent
-[explainer explainer](https://w3ctag.github.io/explainers).
-
-When **writing a new specification**, please use this
-[bikeshed template](examples/example.bs). Make sure to follow the
-instructions in the comments.
-
-We also have [a Makefile](examples/Makefile) that can be used for
-testing explainer and spec changes locally.
+When we spin up a repository in which you can work on an explainer and
+spec, we'll use
+[our template repository](https://github.com/privacycg/deliverable) as a
+starting base.
 
 ## Code of Conduct
 
