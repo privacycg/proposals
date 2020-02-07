@@ -10,7 +10,7 @@ In other words, this is where the Privacy CG *incubates* new ideas.
 
 ### How do I propose something?
 
-1. **Join the group.** Before raising your proposal, please [join the CG](FIXME). This is to ensure that all contributions to our work are covered by the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/).
+1. **Join the group.** Before raising your proposal, please [join the CG](https://www.w3.org/community/privacycg/join). This is to ensure that all contributions to our work are covered by the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/).
 2. **State your problem and make a rough proposal.** [File a new issue](https://github.com/privacycg/proposals/issues/new) in which you state the problem you’re trying to address and how you propose to address it. This can be a very rough idea, or something quite a bit more fleshed out. Please be explicit about your requirements, use cases, and rationale.
 
 ### What happens next?
