@@ -24,7 +24,7 @@ discusses proposals that have not yet been taken up as work items.
 
 When we spin up a repository in which you can work on an explainer and
 spec, we'll use
-[our template repository](https://github.com/privacycg/deliverable) as a
+[our template repository](https://github.com/privacycg/template) as a
 starting base.
 
 ## Code of Conduct
