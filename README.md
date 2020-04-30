@@ -1,7 +1,6 @@
 # Privacy Community Group Proposals
 
-This repository is where the [Privacy CG](https://privacycg.github.io/)
-discusses proposals that have not yet been taken up as work items.
+This repository is where the [Privacy CG](https://privacycg.github.io/) discusses [proposals](https://privacycg.github.io/charter.html#proposals) before they've been spun off into their on repository.
 
 ## Proposal workflow
 
@@ -12,8 +11,8 @@ discusses proposals that have not yet been taken up as work items.
 
 ### What happens next?
 
-3. **Evaluation and refinement.** As a community, we’ll discuss your proposal in the issue you raise. If there’s sufficient enthusiasm, the chairs may ask you to write up and iterate on an [explainer](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md). The chairs will help you spin up a repository for your explainer (and, eventually, your spec) to live in.
-4. **Adoption as a work item.** When your proposal is sufficiently fleshed out and there are multiple [implementers](https://privacycg.github.io/charter.html#implementer) in support of the idea, we may formally adopt your proposal as a work item. This is when the group starts to work on a spec in parallel to the explainer.
+3. **Evaluation and refinement.** As a community, we’ll discuss your proposal in the issue you raise. The Chairs may ask you to write up and iterate on an [explainer](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md). They'll help you spin up a repository for your explainer (and, eventually, your spec) to live in.
+4. **Adoption as a work item.** When your proposal is sufficiently fleshed out and you and the chairs agree, the group may formally adopt your proposal as a work item. This is when the group starts to work on a spec in parallel to the explainer.
 
 ### Standardization
 
@@ -22,13 +21,8 @@ discusses proposals that have not yet been taken up as work items.
 
 ## Resources for editors
 
-When we spin up a repository in which you can work on an explainer and
-spec, we'll use
-[our template repository](https://github.com/privacycg/template) as a
-starting base.
+When we spin up a repository in which you can work on an explainer and spec, we'll use [our template repository](https://github.com/privacycg/template) as a starting base.
 
 ## Code of Conduct
 
-As a W3C Community Group, all work and communication within the Privacy
-CG is covered by the
-[W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
+As a W3C Community Group, all work and communication within the Privacy CG is covered by the [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
