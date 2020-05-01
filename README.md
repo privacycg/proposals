@@ -23,6 +23,8 @@ This repository is where the [Privacy CG](https://privacycg.github.io/) discusse
 
 When we spin up a repository in which you can work on an explainer and spec, we'll use [our template repository](https://github.com/privacycg/template) as a starting base.
 
+Please follow the [WHATWG Style Guide](https://whatwg.org/style-guide) when writing explainers and specs.
+
 ## Code of Conduct
 
 As a W3C Community Group, all work and communication within the Privacy CG is covered by the [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
